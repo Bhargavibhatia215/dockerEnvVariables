@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: dockerEnvVariables
+message:
+  value: ${DISPLAY_MESSAGE}
